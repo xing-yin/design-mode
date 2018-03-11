@@ -6,4 +6,5 @@ package com.chap1;
 public class test {
 
     private String s;
+    private int i;
 }
