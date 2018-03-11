@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c0de9e2-c1f5-48b1-af69-0a6fa29f02ac" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/chap1/Duck/MiniDuckSimylator.java" afterPath="$PROJECT_DIR$/src/com/chap1/Duck/MiniDuckSimylator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/chap1/test.java" afterPath="$PROJECT_DIR$/src/com/chap1/test.java" />
     </list>
     <ignored path="$PROJECT_DIR$/WebRoot/WEB-INF/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,21 +25,41 @@
       <file leaf-file-name="FlyNoWay.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chap1/Duck/service/serviceImpl/FlyNoWay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
+            <state relative-caret-position="0">
               <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MiniDuckSimylator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MiniDuckSimylator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chap1/Duck/MiniDuckSimylator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="18" column="51" lean-forward="false" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+            <state relative-caret-position="225">
+              <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="designMode.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/designMode.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chap1/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -49,11 +70,12 @@
             <state relative-caret-position="456">
               <caret line="32" column="39" lean-forward="false" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-                <element signature="e#596#597#0" expanded="true" />
-                <element signature="e#642#643#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="false" />
+                <element signature="e#401#402#0" expanded="false" />
+                <element signature="e#500#501#0" expanded="false" />
+                <element signature="e#537#538#0" expanded="false" />
+                <element signature="e#707#708#0" expanded="false" />
+                <element signature="e#757#758#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -115,6 +137,7 @@
         <option value="$PROJECT_DIR$/src/com/chap1/Duck/domain/ModelDuck.java" />
         <option value="$PROJECT_DIR$/src/com/chap1/Duck/service/serviceImpl/FlyRocektPowered.java" />
         <option value="$PROJECT_DIR$/src/com/chap1/Duck/MiniDuckSimylator.java" />
+        <option value="$PROJECT_DIR$/src/com/chap1/test.java" />
       </list>
     </option>
   </component>
@@ -457,10 +480,6 @@
               <option name="myItemId" value="chap1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Duck" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -485,10 +504,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Duck" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1025,7 +1040,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8289000" />
+    <option name="totallyTimeSpent" value="8457000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
@@ -1099,7 +1114,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/a_proxy/b_cglib/MyAspect.java" />
     <entry file="file://$PROJECT_DIR$/src/com/itheima/a_proxy/b_cglib/TestCglib.java" />
     <entry file="file://$PROJECT_DIR$/src/com/itheima/a_proxy/b_cglib/MyBeanFactory.java" />
     <entry file="file://$PROJECT_DIR$/src/com/itheima/a_proxy/a_jdk/UserService.java" />
@@ -1172,7 +1186,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
           <caret line="66" column="12" lean-forward="true" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1192,13 +1205,6 @@
         <state relative-caret-position="369">
           <caret line="45" column="21" lean-forward="false" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designMode.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1256,7 +1262,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chap1/Duck/service/serviceImpl/FlyNoWay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
+        <state relative-caret-position="0">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
@@ -1281,11 +1287,12 @@
         <state relative-caret-position="456">
           <caret line="32" column="39" lean-forward="false" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="false" />
+            <element signature="e#401#402#0" expanded="false" />
+            <element signature="e#500#501#0" expanded="false" />
+            <element signature="e#537#538#0" expanded="false" />
+            <element signature="e#707#708#0" expanded="false" />
+            <element signature="e#757#758#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1302,11 +1309,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chap1/Duck/MiniDuckSimylator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="18" column="51" lean-forward="false" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        <state relative-caret-position="225">
+          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designMode.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chap1/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
