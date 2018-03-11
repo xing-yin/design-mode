@@ -989,7 +989,7 @@
       <workItem from="1520557808626" duration="2560000" />
       <workItem from="1520645737201" duration="2578000" />
       <workItem from="1520755613931" duration="363000" />
-      <workItem from="1520757500617" duration="419000" />
+      <workItem from="1520757500617" duration="663000" />
     </task>
     <servers />
   </component>
@@ -1023,7 +1023,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7953000" />
+    <option name="totallyTimeSpent" value="8197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
@@ -1300,8 +1300,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chap1/Duck/MiniDuckSimylator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        <state relative-caret-position="328">
+          <caret line="18" column="45" lean-forward="false" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
