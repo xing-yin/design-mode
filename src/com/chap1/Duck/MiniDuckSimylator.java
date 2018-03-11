@@ -16,7 +16,7 @@ public class MiniDuckSimylator {
         mallard.performFly();*/
         Duck modelDuck=new ModelDuck();
         modelDuck.performFly();
-        System.out.println("=================");
+        System.out.println("=======================");
         modelDuck.setFlyBehavior(new FlyRocektPowered());
         modelDuck.performFly();
     }
