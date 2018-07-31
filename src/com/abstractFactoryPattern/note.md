@@ -69,3 +69,7 @@ AbstractFactoryPatternDemo，我们的演示类使用 FactoryProducer 来获取 
   * 8.使用 FactoryProducer 来获取 AbstractFactory，通过传递类型信息来获取实体类的对象
   
   
+## 备注
+step1\step2同FactoryPattern
+  
+  
