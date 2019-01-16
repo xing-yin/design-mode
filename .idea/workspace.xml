@@ -1,11 +1,792 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41b888f6-81c9-48ed-9135-5dbdea54e134" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/runoob/example/note.md" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/abstractFactoryPattern/Abstract Factory Pattern.jpg" afterPath="$PROJECT_DIR$/src/com/runoob/abstract_factory_pattern/Abstract Factory Pattern.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/abstractFactoryPattern/note.md" afterPath="$PROJECT_DIR$/src/com/runoob/abstract_factory_pattern/note.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/abstractFactoryPattern/step3/Color.java" afterPath="$PROJECT_DIR$/src/com/runoob/abstract_factory_pattern/step3/Color.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/abstractFactoryPattern/step4/Blue.java" afterPath="$PROJECT_DIR$/src/com/runoob/abstract_factory_pattern/step4/Blue.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/abstractFactoryPattern/step4/Green.java" afterPath="$PROJECT_DIR$/src/com/runoob/abstract_factory_pattern/step4/Green.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/abstractFactoryPattern/step4/Red.java" afterPath="$PROJECT_DIR$/src/com/runoob/abstract_factory_pattern/step4/Red.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/abstractFactoryPattern/step5/AbstractFactory.java" afterPath="$PROJECT_DIR$/src/com/runoob/abstract_factory_pattern/step5/AbstractFactory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/abstractFactoryPattern/step6/ColorFactory.java" afterPath="$PROJECT_DIR$/src/com/runoob/abstract_factory_pattern/step6/ColorFactory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/abstractFactoryPattern/step6/ShapeFactory.java" afterPath="$PROJECT_DIR$/src/com/runoob/abstract_factory_pattern/step6/ShapeFactory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/abstractFactoryPattern/step7/FactoryProducer.java" afterPath="$PROJECT_DIR$/src/com/runoob/abstract_factory_pattern/step7/FactoryProducer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/abstractFactoryPattern/step8/AbstractFactoryPatternDemo.java" afterPath="$PROJECT_DIR$/src/com/runoob/abstract_factory_pattern/step8/AbstractFactoryPatternDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/adapterPattern/Adapter Pattern.jpg" afterPath="$PROJECT_DIR$/src/com/runoob/adapter_pattern/Adapter Pattern.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/adapterPattern/note.md" afterPath="$PROJECT_DIR$/src/com/runoob/adapter_pattern/note.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/adapterPattern/step1/AdvancedMediaPlayer.java" afterPath="$PROJECT_DIR$/src/com/runoob/adapter_pattern/step1/AdvancedMediaPlayer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/adapterPattern/step1/MediaPlayer.java" afterPath="$PROJECT_DIR$/src/com/runoob/adapter_pattern/step1/MediaPlayer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/adapterPattern/step2/Mp4Player.java" afterPath="$PROJECT_DIR$/src/com/runoob/adapter_pattern/step2/Mp4Player.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/adapterPattern/step2/VlcPlayer.java" afterPath="$PROJECT_DIR$/src/com/runoob/adapter_pattern/step2/VlcPlayer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/adapterPattern/step3/MediaAdapter.java" afterPath="$PROJECT_DIR$/src/com/runoob/adapter_pattern/step3/MediaAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/adapterPattern/step4/AudioPlayer.java" afterPath="$PROJECT_DIR$/src/com/runoob/adapter_pattern/step4/AudioPlayer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/adapterPattern/step5/AdapterPattrernDemo.java" afterPath="$PROJECT_DIR$/src/com/runoob/adapter_pattern/step5/AdapterPattrernDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/commandPattern/command_pattern.jpg" afterPath="$PROJECT_DIR$/src/com/runoob/command_pattern/command_pattern.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/commandPattern/note.md" afterPath="$PROJECT_DIR$/src/com/runoob/command_pattern/note.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/commandPattern/step1/Order.java" afterPath="$PROJECT_DIR$/src/com/runoob/command_pattern/step1/Order.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/commandPattern/step2/Stock.java" afterPath="$PROJECT_DIR$/src/com/runoob/command_pattern/step2/Stock.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/commandPattern/step3/BuyStock.java" afterPath="$PROJECT_DIR$/src/com/runoob/command_pattern/step3/BuyStock.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/commandPattern/step3/SellStock.java" afterPath="$PROJECT_DIR$/src/com/runoob/command_pattern/step3/SellStock.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/commandPattern/step4/Broker.java" afterPath="$PROJECT_DIR$/src/com/runoob/command_pattern/step4/Broker.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/commandPattern/step5/CommandPatternDemo.java" afterPath="$PROJECT_DIR$/src/com/runoob/command_pattern/step5/CommandPatternDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/compositePattern/composite_pattern.jpg" afterPath="$PROJECT_DIR$/src/com/runoob/composite_pattern/composite_pattern.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/compositePattern/note.md" afterPath="$PROJECT_DIR$/src/com/runoob/composite_pattern/note.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/compositePattern/step1/Employee.java" afterPath="$PROJECT_DIR$/src/com/runoob/composite_pattern/step1/Employee.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/compositePattern/step2/CompositePatternDemo.java" afterPath="$PROJECT_DIR$/src/com/runoob/composite_pattern/step2/CompositePatternDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/decoratorPattern/decorator_pattern.jpg" afterPath="$PROJECT_DIR$/src/com/runoob/decorator_pattern/decorator_pattern.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/decoratorPattern/note.md" afterPath="$PROJECT_DIR$/src/com/runoob/decorator_pattern/note.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/decoratorPattern/step1/Shape.java" afterPath="$PROJECT_DIR$/src/com/runoob/decorator_pattern/step1/Shape.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/decoratorPattern/step2/Circle.java" afterPath="$PROJECT_DIR$/src/com/runoob/decorator_pattern/step2/Circle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/decoratorPattern/step2/Rectangle.java" afterPath="$PROJECT_DIR$/src/com/runoob/decorator_pattern/step2/Rectangle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/decoratorPattern/step3/ShapeDecorator.java" afterPath="$PROJECT_DIR$/src/com/runoob/decorator_pattern/step3/ShapeDecorator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/decoratorPattern/step4/RedShapeDecorator.java" afterPath="$PROJECT_DIR$/src/com/runoob/decorator_pattern/step4/RedShapeDecorator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/decoratorPattern/step5/DecoratorPatternDemo.java" afterPath="$PROJECT_DIR$/src/com/runoob/decorator_pattern/step5/DecoratorPatternDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/facadePattern/facade_pattern.jpg" afterPath="$PROJECT_DIR$/src/com/runoob/facade_pattern/facade_pattern.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/facadePattern/note.md" afterPath="$PROJECT_DIR$/src/com/runoob/facade_pattern/note.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/facadePattern/step1/Shape.java" afterPath="$PROJECT_DIR$/src/com/runoob/facade_pattern/step1/Shape.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/facadePattern/step2/Circle.java" afterPath="$PROJECT_DIR$/src/com/runoob/facade_pattern/step2/Circle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/facadePattern/step2/Rectangle.java" afterPath="$PROJECT_DIR$/src/com/runoob/facade_pattern/step2/Rectangle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/facadePattern/step2/Square.java" afterPath="$PROJECT_DIR$/src/com/runoob/facade_pattern/step2/Square.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/facadePattern/step3/ShapeMaker.java" afterPath="$PROJECT_DIR$/src/com/runoob/facade_pattern/step3/ShapeMaker.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/facadePattern/step4/FacadePatternDemo.java" afterPath="$PROJECT_DIR$/src/com/runoob/facade_pattern/step4/FacadePatternDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/factoryPattern/FactoryPattern.jpg" afterPath="$PROJECT_DIR$/src/com/runoob/factory_pattern/FactoryPattern.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/factoryPattern/note.md" afterPath="$PROJECT_DIR$/src/com/runoob/factory_pattern/note.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/factoryPattern/step1/Shape.java" afterPath="$PROJECT_DIR$/src/com/runoob/factory_pattern/step1/Shape.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/factoryPattern/step2/Circle.java" afterPath="$PROJECT_DIR$/src/com/runoob/factory_pattern/step2/Circle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/factoryPattern/step2/Rectangle.java" afterPath="$PROJECT_DIR$/src/com/runoob/factory_pattern/step2/Rectangle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/factoryPattern/step2/Square.java" afterPath="$PROJECT_DIR$/src/com/runoob/factory_pattern/step2/Square.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/factoryPattern/step3/ShapeFactory.java" afterPath="$PROJECT_DIR$/src/com/runoob/factory_pattern/step3/ShapeFactory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/factoryPattern/step4/FactoryPatternDemo.java" afterPath="$PROJECT_DIR$/src/com/runoob/factory_pattern/step4/FactoryPatternDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/iteratorPattern/iterator_pattern.jpg" afterPath="$PROJECT_DIR$/src/com/runoob/iterator_pattern/iterator_pattern.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/iteratorPattern/note.md" afterPath="$PROJECT_DIR$/src/com/runoob/iterator_pattern/note.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/iteratorPattern/step1/Container.java" afterPath="$PROJECT_DIR$/src/com/runoob/iterator_pattern/step1/Container.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/iteratorPattern/step1/Iterator.java" afterPath="$PROJECT_DIR$/src/com/runoob/iterator_pattern/step1/Iterator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/iteratorPattern/step2/NameRepository.java" afterPath="$PROJECT_DIR$/src/com/runoob/iterator_pattern/step2/NameRepository.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/iteratorPattern/step3/IteratorPatternDemo.java" afterPath="$PROJECT_DIR$/src/com/runoob/iterator_pattern/step3/IteratorPatternDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/observerPattern/note.md" afterPath="$PROJECT_DIR$/src/com/runoob/observer_pattern/note.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/observerPattern/observer_pattern.jpg" afterPath="$PROJECT_DIR$/src/com/runoob/observer_pattern/observer_pattern.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/observerPattern/step1/Subject.java" afterPath="$PROJECT_DIR$/src/com/runoob/observer_pattern/step1/Subject.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/observerPattern/step2/Observer.java" afterPath="$PROJECT_DIR$/src/com/runoob/observer_pattern/step2/Observer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/observerPattern/step3/BinaryObserver.java" afterPath="$PROJECT_DIR$/src/com/runoob/observer_pattern/step3/BinaryObserver.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/observerPattern/step3/HexaObserver.java" afterPath="$PROJECT_DIR$/src/com/runoob/observer_pattern/step3/HexaObserver.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/observerPattern/step3/OctalObserver.java" afterPath="$PROJECT_DIR$/src/com/runoob/observer_pattern/step3/OctalObserver.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/observerPattern/step4/ObserverPatternDemo.java" afterPath="$PROJECT_DIR$/src/com/runoob/observer_pattern/step4/ObserverPatternDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/proxyPattern/note.md" afterPath="$PROJECT_DIR$/src/com/runoob/proxy_pattern/note.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/proxyPattern/proxy_pattern.jpg" afterPath="$PROJECT_DIR$/src/com/runoob/proxy_pattern/proxy_pattern.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/proxyPattern/step1/Image.java" afterPath="$PROJECT_DIR$/src/com/runoob/proxy_pattern/step1/Image.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/proxyPattern/step2/ProxyImage.java" afterPath="$PROJECT_DIR$/src/com/runoob/proxy_pattern/step2/ProxyImage.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/proxyPattern/step2/RealImage.java" afterPath="$PROJECT_DIR$/src/com/runoob/proxy_pattern/step2/RealImage.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/proxyPattern/step3/ProxyPattrenDemo.java" afterPath="$PROJECT_DIR$/src/com/runoob/proxy_pattern/step3/ProxyPattrenDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/singletonPattern/Singleton Pattern.jpg" afterPath="$PROJECT_DIR$/src/com/runoob/singleton_pattern/Singleton Pattern.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/singletonPattern/note.md" afterPath="$PROJECT_DIR$/src/com/runoob/singleton_pattern/note.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/singletonPattern/step1/SingleObject.java" afterPath="$PROJECT_DIR$/src/com/runoob/singleton_pattern/step1/SingleObject.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/singletonPattern/step2/SingletonPatternDemo.java" afterPath="$PROJECT_DIR$/src/com/runoob/singleton_pattern/step2/SingletonPatternDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/singletonPattern/step3/Singleton.java" afterPath="$PROJECT_DIR$/src/com/runoob/singleton_pattern/step3/Singleton.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/singletonPattern/step3/Singleton1.java" afterPath="$PROJECT_DIR$/src/com/runoob/singleton_pattern/step3/Singleton1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/singletonPattern/step3/Singleton2.java" afterPath="$PROJECT_DIR$/src/com/runoob/singleton_pattern/step3/Singleton2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/singletonPattern/step3/Singleton3.java" afterPath="$PROJECT_DIR$/src/com/runoob/singleton_pattern/step3/Singleton3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/singletonPattern/step3/Singleton4.java" afterPath="$PROJECT_DIR$/src/com/runoob/singleton_pattern/step3/Singleton4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/singletonPattern/step3/Singleton5.java" afterPath="$PROJECT_DIR$/src/com/runoob/singleton_pattern/step3/Singleton5.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/singletonPattern/step3/Singleton6.java" afterPath="$PROJECT_DIR$/src/com/runoob/singleton_pattern/step3/Singleton6.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/templatePattern/note.md" afterPath="$PROJECT_DIR$/src/com/runoob/template_pattern/note.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/templatePattern/step1/Game.java" afterPath="$PROJECT_DIR$/src/com/runoob/template_pattern/step1/Game.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/templatePattern/step2/Cricket.java" afterPath="$PROJECT_DIR$/src/com/runoob/template_pattern/step2/Cricket.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/templatePattern/step2/Football.java" afterPath="$PROJECT_DIR$/src/com/runoob/template_pattern/step2/Football.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/templatePattern/step3/TemplatePattrenDemo.java" afterPath="$PROJECT_DIR$/src/com/runoob/template_pattern/step3/TemplatePattrenDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/runoob/templatePattern/template_pattern.jpg" afterPath="$PROJECT_DIR$/src/com/runoob/template_pattern/template_pattern.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/ee19_spring_day02_aop$TestAspectXml_demo01.coverage" NAME="TestAspectXml.demo01 Coverage Results" MODIFIED="1520560273359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.itheima.d_aspect.a_xml.*</FILTER>
     </SUITE>
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="设计模式简介.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/设计模式简介.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="205">
+                <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="18" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="note.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/runoob/abstract_factory_pattern/note.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="133">
+                <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1280" />
+    <option name="y" value="-257" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design-mode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design-mode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design-mode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design-mode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design-mode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design-mode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="runoob" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546246679641" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="design-mode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41b888f6-81c9-48ed-9135-5dbdea54e134" name="Default" comment="" />
+      <created>1547635163024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547635163024</updated>
+      <workItem from="1547635164890" duration="261000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="261000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1280" y="-257" width="1920" height="1057" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23961662" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/runoob/example/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="133">
+            <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/设计模式简介.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="205">
+            <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/runoob/abstract_factory_pattern/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
