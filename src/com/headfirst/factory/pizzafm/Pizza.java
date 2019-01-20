@@ -1,0 +1,54 @@
+package com.headfirst.factory.pizzafm;
+
+import java.util.ArrayList;
+
+public abstract class Pizza {
+	String name;
+	String dough;
+	String sauce;
+	ArrayList<String> toppings = new ArrayList<String>();
+
+	/**
+	 * 对于抽象类而言，方法一般是public权限，在这里为了演示的方便(因为有很多相同名字的类)，采用默认的权限
+	 * 包访问权限
+	 */
+	void prepare() {
+		System.out.println("Prepare " + name);
+		System.out.println("Tossing dough...");
+		System.out.println("Adding sauce...");
+		System.out.println("Adding toppings: ");
+		for (String topping : toppings) {
+			System.out.println("   " + topping);
+		}
+	}
+
+	void bake() {
+		System.out.println("Bake for 25 minutes at 350");
+	}
+
+	void cut() {
+		System.out.println("Cut the pizza into diagonal slices");
+	}
+
+	void box() {
+		System.out.println("Place pizza in official PizzaStore box");
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public String toString() {
+		StringBuffer display = new StringBuffer();
+		display.append("---- " + name + " ----\n");
+		display.append(dough + "\n");
+		display.append(sauce + "\n");
+		for (String topping : toppings) {
+			display.append(topping + "\n");
+		}
+		return display.toString();
+	}
+}
+
+
+
