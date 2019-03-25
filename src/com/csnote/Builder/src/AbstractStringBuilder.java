@@ -37,9 +37,10 @@ public class AbstractStringBuilder {
             newCapacity = minimumCapacity;
 
         if (newCapacity < 0) {
-
-            if (minimumCapacity < 0) // overflow
+            // overflow
+            if (minimumCapacity < 0) {
                 throw new OutOfMemoryError();
+            }
 
             newCapacity = Integer.MAX_VALUE;
         }

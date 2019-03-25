@@ -1,8 +1,8 @@
 package com.csnote.FactoryMethod.src;
 
-public class ConcreteFactory2 extends Factory {
+public class ConcreteFactory3 extends Factory {
     @Override
     public Product factoryMethod() {
-        return new ConcreteProduct2();
+        return new ConcreteProduct3();
     }
 }
