@@ -6,6 +6,9 @@ package com.headfirst.command.undo;
 public class RemoteControlWithUndo {
 	Command[] onCommands;
 	Command[] offCommands;
+	/**
+	 * 前一个命令将被记录在这个实例变量中
+	 */
 	Command undoCommand;
 
 	public RemoteControlWithUndo() {
