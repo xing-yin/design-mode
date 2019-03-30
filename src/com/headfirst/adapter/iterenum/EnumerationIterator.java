@@ -17,6 +17,9 @@ public class EnumerationIterator implements Iterator<Object> {
 		return enumeration.nextElement();
 	}
 
+	/**
+	 * 枚举不能支持迭代器的remove()方法，这里处理是抛出异常
+	 */
 	public void remove() {
 		throw new UnsupportedOperationException();
 	}

@@ -2,6 +2,9 @@ package com.headfirst.facade.hometheater;
 
 public class HomeTheaterTestDrive {
 	public static void main(String[] args) {
+		/**
+		 * 实例化子系统的组件
+		 */
 		Amplifier amp = new Amplifier("Top-O-Line Amplifier");
 		Tuner tuner = new Tuner("Top-O-Line AM/FM Tuner", amp);
 		DvdPlayer dvd = new DvdPlayer("Top-O-Line DVD Player", amp);

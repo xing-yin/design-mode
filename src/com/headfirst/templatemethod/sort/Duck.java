@@ -13,6 +13,11 @@ public class Duck implements Comparable<Duck> {
 		return name + " weighs " + weight;
 	}
 
+	/**
+	 * 关键:实现 compareTo() 方法
+	 * @param object
+	 * @return
+	 */
 	public int compareTo(Duck object) {
 
 		Duck otherDuck = object;
