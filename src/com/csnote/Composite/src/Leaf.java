@@ -9,11 +9,9 @@ public class Leaf extends Component {
 
     @Override
     void print(int level) {
-
         for (int i = 0; i < level; i++) {
             System.out.print("--");
         }
-
         System.out.println("left:" + name);
     }
 

@@ -6,7 +6,6 @@ public class StatisticsDisplay implements Observer {
         weatherData.resisterObserver(this);
     }
 
-
     @Override
     public void update(float temp, float humidity, float pressure) {
         System.out.println("StatisticsDisplay.update: " + temp + " " + humidity + " " + pressure);

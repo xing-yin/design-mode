@@ -10,11 +10,9 @@ public class WeatherData implements Subject {
     private float humidity;
     private float pressure;
 
-
     public WeatherData() {
         observers = new ArrayList<>();
     }
-
 
     public void setMeasurements(float temperature, float humidity, float pressure) {
         this.temperature = temperature;
@@ -23,12 +21,10 @@ public class WeatherData implements Subject {
         notifyObserver();
     }
 
-
     @Override
     public void resisterObserver(Observer o) {
         observers.add(o);
     }
-
 
     @Override
     public void removeObserver(Observer o) {
@@ -37,7 +33,6 @@ public class WeatherData implements Subject {
             observers.remove(i);
         }
     }
-
 
     @Override
     public void notifyObserver() {

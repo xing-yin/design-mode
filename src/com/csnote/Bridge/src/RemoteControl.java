@@ -1,5 +1,8 @@
 package com.csnote.Bridge.src;
 
+/**
+ * RemoteControl 表示遥控器，指代 Abstraction。
+ */
 public abstract class RemoteControl {
 
     protected TV tv;

@@ -16,7 +16,7 @@ public class ImageProxy implements Image {
         while (!highResolutionImage.isLoad()) {
             try {
                 System.out.println("Temp Image: " + highResolutionImage.getWidth() + " " + highResolutionImage.getHeight());
-                Thread.sleep(100);
+                Thread.sleep(300);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
