@@ -41,6 +41,10 @@ public class PancakeHouseMenu implements Menu {
 		return menuItems;
 	}
 
+	/**
+	 * 调用 ArrayList 的 iterator() 方法
+	 * @return
+	 */
 	public Iterator<MenuItem> createIterator() {
 		return menuItems.iterator();
 	}

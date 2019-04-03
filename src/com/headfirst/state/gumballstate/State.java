@@ -2,10 +2,13 @@ package com.headfirst.state.gumballstate;
 
 public interface State {
 
-	public void insertQuarter();
-	public void ejectQuarter();
-	public void turnCrank();
-	public void dispense();
+    void insertQuarter();
 
-	public void refill();
+    void ejectQuarter();
+
+    void turnCrank();
+
+    void dispense();
+
+    void refill();
 }

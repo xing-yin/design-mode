@@ -8,6 +8,7 @@ public class NullIterator implements Iterator<MenuComponent> {
 		return null;
 	}
 
+	// 永远返回 false
 	public boolean hasNext() {
 		return false;
 	}
