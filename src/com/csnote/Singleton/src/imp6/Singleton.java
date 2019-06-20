@@ -18,16 +18,13 @@ public enum Singleton {
 
     private String objName;
 
-
     public String getObjName() {
         return objName;
     }
 
-
     public void setObjName(String objName) {
         this.objName = objName;
     }
-
 
     public static void main(String[] args) {
 
@@ -36,6 +33,7 @@ public enum Singleton {
         firstSingleton.setObjName("firstName");
         System.out.println(firstSingleton.getObjName());
         Singleton secondSingleton = Singleton.INSTANCE;
+        // 虽然设了名字，但是操作的是同一个实例
         secondSingleton.setObjName("secondName");
         System.out.println(firstSingleton.getObjName());
         System.out.println(secondSingleton.getObjName());

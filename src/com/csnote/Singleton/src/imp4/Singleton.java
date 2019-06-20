@@ -10,6 +10,9 @@ package com.csnote.Singleton.src.imp4;
  */
 public class Singleton {
 
+    /**
+     * 使用 volatile 可以禁止 JVM 的指令重排
+     */
     private volatile static Singleton uniqueInstance;
 
     private Singleton() {
