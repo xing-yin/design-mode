@@ -1,13 +1,13 @@
-package com.runoob.facadePattern.step3;
+package com.runoob.facade_pattern.step3;
 
 /**
  * Created by yinxing on 2018/8/24.
  */
 
-import com.runoob.factoryPattern.step1.Shape;
-import com.runoob.factoryPattern.step2.Circle;
-import com.runoob.factoryPattern.step2.Rectangle;
-import com.runoob.factoryPattern.step2.Square;
+import com.runoob.facade_pattern.step1.Shape;
+import com.runoob.facade_pattern.step2.Circle;
+import com.runoob.facade_pattern.step2.Rectangle;
+import com.runoob.facade_pattern.step2.Square;
 
 /**
  * 步骤 3

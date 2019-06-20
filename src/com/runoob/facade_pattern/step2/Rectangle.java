@@ -1,6 +1,6 @@
-package com.runoob.facadePattern.step2;
+package com.runoob.facade_pattern.step2;
 
-import com.runoob.factoryPattern.step1.Shape;
+import com.runoob.facade_pattern.step1.Shape;
 
 /**
  * Created by yinxing on 2018/7/30.

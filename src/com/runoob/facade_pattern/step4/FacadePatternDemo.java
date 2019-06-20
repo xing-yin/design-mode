@@ -1,10 +1,10 @@
-package com.runoob.facadePattern.step4;
+package com.runoob.facade_pattern.step4;
 
 /**
  * Created by yinxing on 2018/8/24.
  */
 
-import com.runoob.facadePattern.step3.ShapeMaker;
+import com.runoob.facade_pattern.step3.ShapeMaker;
 
 /**
  * 步骤 4

@@ -1,4 +1,4 @@
-package com.runoob.facadePattern.step1;
+package com.runoob.facade_pattern.step1;
 
 /**
  * Created by yinxing on 2018/8/24.
