@@ -1,4 +1,4 @@
-package com.runoob.singletonPattern.step1;
+package com.runoob.singleton_pattern.step1;
 
 /**
  * Created by yinxing on 2018/7/31.

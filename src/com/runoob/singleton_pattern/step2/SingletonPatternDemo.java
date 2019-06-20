@@ -1,10 +1,10 @@
-package com.runoob.singletonPattern.step2;
+package com.runoob.singleton_pattern.step2;
 
 /**
  * Created by yinxing on 2018/8/1.
  */
 
-import com.runoob.singletonPattern.step1.SingleObject;
+import com.runoob.singleton_pattern.step1.SingleObject;
 
 /**
  * 从 singleton 类获取唯一的对象
