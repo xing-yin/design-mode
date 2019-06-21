@@ -1,4 +1,4 @@
-package com.practice.singleton.impl2;
+package com.practice.Singleton.impl2;
 
 /**
  * 懒汉-线程安全

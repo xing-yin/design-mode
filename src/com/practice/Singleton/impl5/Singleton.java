@@ -1,4 +1,4 @@
-package com.practice.singleton.impl5;
+package com.practice.Singleton.impl5;
 
 /**
  * 静态内部类实现

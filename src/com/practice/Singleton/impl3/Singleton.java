@@ -1,4 +1,4 @@
-package com.practice.singleton.impl3;
+package com.practice.Singleton.impl3;
 
 /**
  * 饿汉式-线程安全

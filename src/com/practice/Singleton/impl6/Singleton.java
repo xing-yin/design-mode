@@ -1,4 +1,4 @@
-package com.practice.singleton.impl6;
+package com.practice.Singleton.impl6;
 
 /**
  * 枚举实现-线程安全

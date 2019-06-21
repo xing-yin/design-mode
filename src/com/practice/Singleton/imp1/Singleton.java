@@ -1,4 +1,4 @@
-package com.practice.singleton.imp1;
+package com.practice.Singleton.imp1;
 
 /**
  * 模式名:单例模式

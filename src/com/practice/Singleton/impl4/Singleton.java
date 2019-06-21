@@ -1,4 +1,4 @@
-package com.practice.singleton.impl4;
+package com.practice.Singleton.impl4;
 
 /**
  * 双重校验锁-线程安全
