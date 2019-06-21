@@ -1,9 +1,13 @@
 package com.csnote.FactoryMethod.src;
 
+/**
+ * 定义一个抽象类做工厂类
+ */
 public abstract class Factory {
 
     /**
      * 该方法是抽象的，需要由子类去实现。
+     *
      * @return
      */
     abstract public Product factoryMethod();
