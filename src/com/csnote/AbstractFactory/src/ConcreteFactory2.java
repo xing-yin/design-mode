@@ -3,12 +3,12 @@ package com.csnote.AbstractFactory.src;
 public class ConcreteFactory2 extends AbstractFactory {
 
     @Override
-    AbstractProductA createProductA() {
+    ProductA createProductA() {
         return new ProductA2();
     }
 
     @Override
-    AbstractProductB createProductB() {
+    ProductB createProductB() {
         return new ProductB2();
     }
 }

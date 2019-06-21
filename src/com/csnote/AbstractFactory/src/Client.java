@@ -6,8 +6,8 @@ public class Client {
 
         AbstractFactory abstractFactory = new ConcreteFactory1();
 
-        AbstractProductA productA = abstractFactory.createProductA();
-        AbstractProductB productB = abstractFactory.createProductB();
+        ProductA productA = abstractFactory.createProductA();
+        ProductB productB = abstractFactory.createProductB();
 
         // do something with productA and productB
     }
