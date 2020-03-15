@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af450a4a-3347-46d3-8dee-50a5e871f1dc" name="Default" comment="新增设计模式之美:28 重构-理论二-单元测试">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/note/设计模式之美/28 | 理论二：为了保证重构不出错，有哪些非常能落地的技术手段？.md" />
+    <list default="true" id="af450a4a-3347-46d3-8dee-50a5e871f1dc" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/48 | 代理模式：代理在RPC、缓存、监控等场景中的应用.md" afterPath="$PROJECT_DIR$/note/设计模式之美/48 | 代理模式：代理在RPC、缓存、监控等场景中的应用.md" />
     </list>
-    <list id="915b3096-5590-4642-878c-bfefb31224fa" name="ignore" comment="">
+    <list id="915b3096-5590-4642-878c-bfefb31224fa" name="ignore" comment="ignore">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/src/com/output/" />
@@ -24,12 +24,102 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="6080">
               <caret line="354" column="18" lean-forward="false" selection-start-line="354" selection-start-column="18" selection-end-line="354" selection-end-column="18" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/csnote/Singleton/src/imp5/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Temp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/beauty_design_mode/Temp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1083">
+              <caret line="67" column="11" lean-forward="false" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/csnote/Menento/src/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalculatorImp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/csnote/Menento/src/CalculatorImp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="48 | 代理模式：代理在RPC、缓存、监控等场景中的应用.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/note/设计模式之美/48 | 代理模式：代理在RPC、缓存、监控等场景中的应用.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding>
+                  <marker date="1583756171847" expanded="true" signature="855:1206" ph="{...}" />
+                  <marker date="1583756171847" expanded="true" signature="1268:1625" ph="{...}" />
+                  <marker date="1583756171847" expanded="true" signature="1990:2098" ph="{...}" />
+                  <marker date="1583756171847" expanded="true" signature="2155:2426" ph="{...}" />
+                  <marker date="1583756171847" expanded="true" signature="2247:2297" ph="{...}" />
+                  <marker date="1583756171847" expanded="true" signature="2253:2293" ph="//..." />
+                  <marker date="1583756171847" expanded="true" signature="2371:2424" ph="{...}" />
+                  <marker date="1583756171847" expanded="true" signature="2377:2420" ph="//..." />
+                  <marker date="1583756171847" expanded="true" signature="2488:3671" ph="{...}" />
+                  <marker date="1583756171847" expanded="true" signature="2637:2736" ph="{...}" />
+                  <marker date="1583756171847" expanded="true" signature="2807:3203" ph="{...}" />
+                  <marker date="1583756171847" expanded="true" signature="3277:3669" ph="{...}" />
+                  <marker date="1583756171847" expanded="false" signature="4279:4286" ph=" { " />
+                  <marker date="1583756171847" expanded="false" signature="4333:4337" ph=" }" />
+                  <marker date="1583756171847" expanded="true" signature="4396:4773" ph="{...}" />
+                  <marker date="1583756171847" expanded="true" signature="4835:5218" ph="{...}" />
+                  <marker date="1583756171847" expanded="false" signature="6003:6010" ph=" { " />
+                  <marker date="1583756171847" expanded="false" signature="6057:6061" ph=" }" />
+                  <marker date="1583756171847" expanded="true" signature="6113:6361" ph="{...}" />
+                  <marker date="1583756171847" expanded="true" signature="6428:7149" ph="{...}" />
+                  <marker date="1583756171847" expanded="false" signature="6517:6526" ph=" { " />
+                  <marker date="1583756171847" expanded="false" signature="6561:6567" ph=" }" />
+                  <marker date="1583756171847" expanded="true" signature="6669:7145" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -43,6 +133,8 @@
       <find>单元测试、Code Review</find>
       <find>单元测试Code Review</find>
       <find>Code Review</find>
+      <find>men</find>
+      <find>门面</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -81,11 +173,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
-    <option name="y" value="-64" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -105,9 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -231,10 +321,6 @@
               <option name="myItemId" value="note" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="设计模式之美" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -249,13 +335,12 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,6 +353,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/note/设计模式之美" />
+      <recent name="$PROJECT_DIR$/note" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -701,6 +787,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="af450a4a-3347-46d3-8dee-50a5e871f1dc" name="Default" comment="" />
@@ -711,7 +800,16 @@
       <workItem from="1554170341013" duration="529000" />
       <workItem from="1560994991150" duration="72000" />
       <workItem from="1578450060055" duration="577000" />
-      <workItem from="1578814450965" duration="767000" />
+      <workItem from="1578814450965" duration="859000" />
+      <workItem from="1580908461917" duration="65000" />
+      <workItem from="1582443839349" duration="2165000" />
+      <workItem from="1582528971589" duration="1052000" />
+      <workItem from="1582547014930" duration="244000" />
+      <workItem from="1582790478177" duration="171000" />
+      <workItem from="1583573208865" duration="723000" />
+      <workItem from="1583804503089" duration="626000" />
+      <workItem from="1583819902126" duration="94000" />
+      <workItem from="1584261071900" duration="399000" />
     </task>
     <task id="LOCAL-00001" summary="新增设计模式之美:25 实战上-非业务通用框架开发">
       <created>1578202586828</created>
@@ -748,28 +846,104 @@
       <option name="project" value="LOCAL" />
       <updated>1578820666847</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="新增设计模式之美:31/32/33 编程规范">
+      <created>1582449362734</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582449362734</updated>
+    </task>
+    <task id="LOCAL-00007" summary="新增设计模式之美:34/35 实战-ID生成器代码质量问题与重构">
+      <created>1582454831004</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582454831005</updated>
+    </task>
+    <task id="LOCAL-00008" summary="新增设计模式之美:36/37 实战-程序出错处理">
+      <created>1582532145875</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582532145875</updated>
+    </task>
+    <task id="LOCAL-00009" summary="新增设计模式之美:38-总结：面向对象、设计原则、编程规范、重构技巧">
+      <created>1582532195674</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582532195674</updated>
+    </task>
+    <task id="LOCAL-00010" summary="新增设计模式之美:39/40实战-完善性能计数项目">
+      <created>1582547119474</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582547119474</updated>
+    </task>
+    <task id="LOCAL-00011" summary="新增设计模式之美:41/42/43-单例模式">
+      <created>1582547174173</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1582547174173</updated>
+    </task>
+    <task id="LOCAL-00012" summary="新增设计模式之美:45-工厂模式">
+      <created>1582790538595</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1582790538595</updated>
+    </task>
+    <task id="LOCAL-00013" summary="新增设计模式之美:46-建造者模式">
+      <created>1582790567888</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1582790567888</updated>
+    </task>
+    <task id="LOCAL-00014" summary="新增设计模式之美:47-原型模式">
+      <created>1582790597778</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1582790597778</updated>
+    </task>
+    <task id="LOCAL-00015" summary="新增设计模式之美:48-54代理/桥接/装饰器/适配器/门面/享元">
+      <created>1583819970865</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1583819970865</updated>
+    </task>
+    <task id="LOCAL-00016" summary="新增设计模式之美:55-57享元/观察者模式">
+      <created>1584261130827</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1584261130827</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2302000" />
+    <option name="totallyTimeSpent" value="7933000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="-64" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5178218" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37534246" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2284345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1720517" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -781,6 +955,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -822,64 +997,28 @@
     <MESSAGE value="新增设计模式之美:26 实战下-非业务通用框架代码实现" />
     <MESSAGE value="新增设计模式之美:27 重构-理论一" />
     <MESSAGE value="新增设计模式之美:29 代码的可测试性" />
-    <MESSAGE value="新增设计模式之美:28 重构-理论二-单元测试" />
     <MESSAGE value="新增设计模式之美:30 解耦代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增设计模式之美:30 解耦代码" />
+    <MESSAGE value="新增设计模式之美:28 重构-理论二-单元测试" />
+    <MESSAGE value="新增设计模式之美:31 编程规范-上" />
+    <MESSAGE value="新增设计模式之美:31/32/33 编程规范" />
+    <MESSAGE value="新增设计模式之美:34/35 实战-ID生成器代码质量问题与重构" />
+    <MESSAGE value="新增设计模式之美:36/37 实战-程序出错处理" />
+    <MESSAGE value="新增设计模式之美:38-总结：面向对象、设计原则、编程规范、重构技巧" />
+    <MESSAGE value="新增设计模式之美:39/40实战-完善性能计数项目" />
+    <MESSAGE value="新增设计模式之美:41-单例模式" />
+    <MESSAGE value="新增设计模式之美:41/42/43-单例模式" />
+    <MESSAGE value="新增设计模式之美:45-工厂模式" />
+    <MESSAGE value="新增设计模式之美:46-建造者模式" />
+    <MESSAGE value="新增设计模式之美:47-原型模式" />
+    <MESSAGE value="新增设计模式之美:48-54代理/桥接/装饰器/适配器/门面/享元" />
+    <MESSAGE value="新增设计模式之美:55-57享元/观察者模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增设计模式之美:55-57享元/观察者模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/runoob/facade_pattern/step3/ShapeMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/runoob/factory_pattern/step1/Shape.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/runoob/factory_pattern/step2/Rectangle.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/runoob/设计模式简介.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="466">
-            <caret line="111" column="0" lean-forward="true" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/note/设计模式之美/000 学习记录与疑问.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="171">
-            <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/note/设计模式之美/08 | 理论五：接口vs抽象类的区别？如何用普通的类模拟抽象类和接口？.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/note/设计模式之美/09 | 理论六：为什么基于接口而非实现编程？有必要为每个类都定义接口吗？.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/note/设计模式之美/12 | 实战一（下）：如何利用基于充血模型的DDD开发一个虚拟钱包系统？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1034,13 +1173,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/beauty_design_mode/Temp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="60" column="10" lean-forward="false" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/note/设计模式之美/25 | 实战二（上）：针对非业务的通用框架开发，如何做需求分析和设计？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1066,40 +1198,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="575">
             <caret line="326" column="68" lean-forward="false" selection-start-line="326" selection-start-column="68" selection-end-line="326" selection-end-column="68" />
-            <folding>
-              <marker date="1577602619351" expanded="true" signature="2407:2498" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="2477:2496" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="2528:2726" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="2628:2724" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="2750:2963" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="2828:2953" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="3648:3667" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="3970:4166" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="4548:4694" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="4637:4684" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="4748:5019" ph="{...}" />
-              <marker date="1577602619351" expanded="false" signature="4841:4848" ph=" { " />
-              <marker date="1577602619351" expanded="false" signature="4877:4881" ph=" }" />
-              <marker date="1577602619351" expanded="true" signature="4930:5017" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="5256:5335" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="5379:5462" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="5847:5969" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="5890:5967" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="5997:6122" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="6039:6120" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="6510:6548" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="6582:6620" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="6689:6960" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="6744:6821" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="6877:6958" ph="{...}" />
-              <marker date="1577602619351" expanded="true" signature="6987:7115" ph="{...}" />
-              <marker date="1577602619351" expanded="false" signature="7065:7072" ph=" { " />
-              <marker date="1577602619351" expanded="false" signature="7101:7105" ph=" }" />
-              <marker date="1577602619351" expanded="true" signature="7142:7282" ph="{...}" />
-              <marker date="1577602619351" expanded="false" signature="7228:7235" ph=" { " />
-              <marker date="1577602619351" expanded="false" signature="7268:7272" ph=" }" />
-              <marker date="1577602619351" expanded="true" signature="8198:8485" ph="{...}" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1239,7 +1337,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="204">
             <caret line="79" column="27" lean-forward="false" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1247,9 +1344,104 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="6080">
           <caret line="354" column="18" lean-forward="false" selection-start-line="354" selection-start-column="18" selection-end-line="354" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/csnote/Singleton/src/imp4/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="60" column="38" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/csnote/Singleton/src/imp5/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/beauty_design_mode/Temp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="67" column="11" lean-forward="false" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/设计模式之美/03 | 面向对象、设计原则、设计模式、编程规范、重构，这五者有何关系？.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1007">
+            <caret line="53" column="8" lean-forward="false" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/csnote/Menento/src/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/csnote/Menento/src/CalculatorImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/设计模式之美/48 | 代理模式：代理在RPC、缓存、监控等场景中的应用.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1583756171847" expanded="true" signature="855:1206" ph="{...}" />
+              <marker date="1583756171847" expanded="true" signature="1268:1625" ph="{...}" />
+              <marker date="1583756171847" expanded="true" signature="1990:2098" ph="{...}" />
+              <marker date="1583756171847" expanded="true" signature="2155:2426" ph="{...}" />
+              <marker date="1583756171847" expanded="true" signature="2247:2297" ph="{...}" />
+              <marker date="1583756171847" expanded="true" signature="2253:2293" ph="//..." />
+              <marker date="1583756171847" expanded="true" signature="2371:2424" ph="{...}" />
+              <marker date="1583756171847" expanded="true" signature="2377:2420" ph="//..." />
+              <marker date="1583756171847" expanded="true" signature="2488:3671" ph="{...}" />
+              <marker date="1583756171847" expanded="true" signature="2637:2736" ph="{...}" />
+              <marker date="1583756171847" expanded="true" signature="2807:3203" ph="{...}" />
+              <marker date="1583756171847" expanded="true" signature="3277:3669" ph="{...}" />
+              <marker date="1583756171847" expanded="false" signature="4279:4286" ph=" { " />
+              <marker date="1583756171847" expanded="false" signature="4333:4337" ph=" }" />
+              <marker date="1583756171847" expanded="true" signature="4396:4773" ph="{...}" />
+              <marker date="1583756171847" expanded="true" signature="4835:5218" ph="{...}" />
+              <marker date="1583756171847" expanded="false" signature="6003:6010" ph=" { " />
+              <marker date="1583756171847" expanded="false" signature="6057:6061" ph=" }" />
+              <marker date="1583756171847" expanded="true" signature="6113:6361" ph="{...}" />
+              <marker date="1583756171847" expanded="true" signature="6428:7149" ph="{...}" />
+              <marker date="1583756171847" expanded="false" signature="6517:6526" ph=" { " />
+              <marker date="1583756171847" expanded="false" signature="6561:6567" ph=" }" />
+              <marker date="1583756171847" expanded="true" signature="6669:7145" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
