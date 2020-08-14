@@ -13,7 +13,7 @@ public class SensitiveWordFilterChain {
     private List<ISensitiveWordFilter> filters = new ArrayList<>();
 
     public void addFilter(ISensitiveWordFilter filter) {
-        filters.add(filter);
+        this.filters.add(filter);
     }
 
     public boolean filter(Content content) {

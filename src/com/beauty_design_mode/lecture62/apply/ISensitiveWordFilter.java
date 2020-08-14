@@ -7,5 +7,11 @@ package com.beauty_design_mode.lecture62.apply;
 
 public interface ISensitiveWordFilter {
 
+    /**
+     * 过滤方法
+     *
+     * @param content
+     * @return
+     */
     boolean doFilter(Content content);
 }

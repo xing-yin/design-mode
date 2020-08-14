@@ -15,12 +15,16 @@ public abstract class Handler {
         this.successor = successor;
     }
 
+    /**
+     * 利用模板模式优化 demo1 的代码，将 successor.handle() 抽象到抽象父类中
+     */
     public final void handle() {
         boolean isHandle = doHandle();
         if (successor != null && !isHandle) {
             successor.handle();
         }
     }
+
 
     protected abstract boolean doHandle();
 }

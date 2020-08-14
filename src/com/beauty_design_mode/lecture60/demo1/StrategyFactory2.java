@@ -13,17 +13,17 @@ import java.util.Map;
 
 public class StrategyFactory2 {
 
-    private static final Map<String, Strategy> strategies = new HashMap<>();
+    private static final Map<String, Strategy> STRATEGIES = new HashMap<>();
 
     static {
-        strategies.put("A", new ConcretStrategyA());
-        strategies.put("B", new ConcretStrategyB());
+        STRATEGIES.put("A", new ConcretStrategyA());
+        STRATEGIES.put("B", new ConcretStrategyB());
     }
 
     public static Strategy getStrategy(String type) {
         if (type == null || type.isEmpty()) {
             throw new IllegalArgumentException("type can not be null");
         }
-        return strategies.get(type);
+        return STRATEGIES.get(type);
     }
 }

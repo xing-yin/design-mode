@@ -1,6 +1,11 @@
 package com.beauty_design_mode.lecture62.demo1;
 
 /**
+ * HandlerChain 是处理器链：
+ * <p>
+ * 从数据结构的角度来看，它就是一个记录了链头、链尾的链表。
+ * 其中，记录链尾是为了方便添加处理器。
+ *
  * @author Alan Yin
  * @date 2020/3/30
  */
