@@ -1,4 +1,4 @@
-package com.beauty_design_mode.lecture59;
+package com.beauty_design_mode.lecture59.demo2;
 
 /**
  * 应用举例三：addShutdownHook()
