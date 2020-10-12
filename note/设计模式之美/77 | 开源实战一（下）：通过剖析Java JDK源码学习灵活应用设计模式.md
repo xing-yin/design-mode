@@ -174,7 +174,7 @@ Runtime 类的的代码实现如下所示。这里面只包含部分相关代码
  * the environment in which the application is running. The current
  * runtime can be obtained from the <code>getRuntime</code> method.
  * <p>
- * An application cannot create its own instance of this class.
+ *generate
  *
  * @author  unascribed
  * @see     java.lang.Runtime#getRuntime()
