@@ -88,7 +88,7 @@ public class RandomIdGenerator implements IdGenerator {
 
 ## 函数出错应该返回啥？
 
-关于函数出错返回数据类型，我总结了 4 种情况，它们分别是**：错误码、NULL 值、空对象、异常对象**。接下来，我们就一一来看它们的用法以及适用场景。
+关于函数出错返回数据类型，我总结了 4 种情况，它们分别是：**错误码、NULL 值、空对象、异常对象**。接下来，我们就一一来看它们的用法以及适用场景。
 
 ## 1. 返回错误码
 
@@ -157,7 +157,7 @@ if (-1 == hFile) {
 }
 ```
 
-实际上，如果你熟悉的编程语言中有异常这种语法机制，那就尽量不要使用错误码**。异常相对于错误码，有诸多方面的优势，比如可以携带更多的错误信息（exception 中可以有 message、stack trace 等信息）等**。
+实际上，如果你熟悉的编程语言中有异常这种语法机制，那就尽量不要使用错误码。**异常相对于错误码，有诸多方面的优势，比如可以携带更多的错误信息（exception 中可以有 message、stack trace 等信息）等**。
 
 ## 2. 返回 NULL 值
 
@@ -244,7 +244,7 @@ System.out.println("Contains " + length + " upper case letters.");
 * 像 C++ 和大部分的动态语言（Python、Ruby、JavaScript 等）都只定义了一种异常类型：**`运行时异常（Runtime Exception）`**。
 * 而像 Java，除了运行时异常外，还定义了另外一种异常类型：**`编译时异常（Compile Exception）`**。
 
-对于运行时异常，我们在编写代码的时候，可以不用主动去 try-catch，编译器在编译代码的时候，并不会检查代码是否有对运行时异常做了处理。相反，**对于编译时异常，我们在编写代码的时候，需要主动去 try-catch 或者在函数定义中声明，否则编译就会报错**。所以，运行时异常也叫作**`非受检异常（Unchecked Exception）`**，编译时异常也叫作**`受检异常（Checked Exception）`**。
+对于运行时异常，我们在编写代码的时候，可以不用主动去 try-catch，编译器在编译代码的时候，并不会检查代码是否有对运行时异常做了处理。相反，**对于编译时异常，我们在编写代码的时候，需要主动去 try-catch 或者在函数定义中声明，否则编译就会报错**。所以，运行时异常也叫作 **`非受检异常（Unchecked Exception）`** ，编译时异常也叫作 **`受检异常（Checked Exception）`**。
 
 #### 如果你熟悉的编程语言中（比如 Java），定义了两种异常类型，那在异常出现的时候，我们应该选择抛出哪种异常类型呢？是受检异常还是非受检异常？
 
@@ -310,7 +310,7 @@ public void func2() {
 }
 ```
 
-* **原封不动地 re-throw**。
+* **原封不动地re-throw**。
 
 ```java
 public void func1() throws Exception1 {
@@ -322,9 +322,9 @@ public void func2() throws Exception1 {//原封不动的re-throw Exception1
   func1();
   //...
 }
-```java
+```
 
-* **包装成新的异常 re-throw**。
+* **包装成新的异常re-throw**。
 
 ```java
 public void func1() throws Exception1 {
