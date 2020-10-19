@@ -1,15 +1,13 @@
-package com.beauty_design_mode.lecture25_26.v2;
+package com.beauty_design_mode.lecture39_40.v3;
 
 
 import com.beauty_design_mode.lecture25_26.support.StringUtils;
-import com.beauty_design_mode.lecture25_26.v2.model.RequestInfo;
+import com.beauty_design_mode.lecture39_40.v3.model.RequestInfo;
 
 /**
  * 指标收集器：打点采集原始数据
  * <p>
- * review 分析:
- * MetricsCollector 负责采集和存储数据，职责相对来说还算比较单一。
- * 它基于接口而非实现编程，通过依赖注入的方式来传递 MetricsStorage 对象，可以在不需要修改代码的情况下，灵活地替换不同的存储方式，满足开闭原则。
+ * (与v2 相同，设计与实现比较简单，不是 V3 重构的重点)
  *
  * @author Alan Yin
  * @date 2020/10/14
