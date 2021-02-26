@@ -72,7 +72,7 @@ public class RedisCounter {
 
 上一节讲到，简单工厂模式有两种实现方式，一种是每次都返回新创建的对象，另一种是每次都返回同一个事先创建好的对象，也就是所谓的单例对象。
 
-在 Spring 框架中，我们可以通过配置 scope 属性，来区分这两种不同类型的对象。scope=prototype 表示返回新创建的对象，scope=singleton 表示返回单例对象。
+在 Spring 框架中，我们可以通过配置 scope 属性，来区分这两种不同类型的对象。scope=prototype 表示返回新创建的对象，scope=badSingleton 表示返回单例对象。
 
 除此之外，我们还可以配置对象是否支持懒加载。如果 lazy-init=true，对象在真正被使用到的时候（比如：BeansFactory.getBean(“userService”)）才被被创建；如果 lazy-init=false，对象在应用启动的时候就事先创建好。
 
@@ -93,7 +93,7 @@ public class RedisCounter {
       <constructor-arg ref="redisCounter"/>
    </bean>
  
-   <bean id="redisCounter" class="com.xzg.redisCounter" scope="singleton" lazy-init="true">
+   <bean id="redisCounter" class="com.xzg.redisCounter" scope="badSingleton" lazy-init="true">
      <constructor-arg type="String" value="127.0.0.1">
      <constructor-arg type="int" value=1234>
    </bean>
@@ -225,7 +225,7 @@ public class BeanDefinition {
 
 最后，我们来看，BeansFactory 是如何设计和实现的。这也是我们这个 DI 容器最核心的一个类了。它负责根据从配置文件解析得到的 BeanDefinition 来创建对象。
 
-* 如果对象的 scope 属性是 singleton，那对象创建之后会缓存在 singletonObjects 这样一个 map 中，下次再请求此对象的时候，直接从 map 中取出返回，不需要重新创建。
+* 如果对象的 scope 属性是 badSingleton，那对象创建之后会缓存在 singletonObjects 这样一个 map 中，下次再请求此对象的时候，直接从 map 中取出返回，不需要重新创建。
 
 * 如果对象的 scope 属性是 prototype，那每次请求对象，BeansFactory 都会创建一个新的对象返回。
 
