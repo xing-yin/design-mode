@@ -26,7 +26,6 @@ public class MyJob {
             // 多线程运行
             int finalI = i;
             executorService.execute(() -> task(finalI));
-
         }
         System.out.println("cost time:" + (System.currentTimeMillis() - startTime));
     }

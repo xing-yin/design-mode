@@ -12,9 +12,9 @@ import com.beauty_design_mode.lecture39_40.v5.MetricsCollector;
 
 public class EventBus {
 
-    public void register(MetricsCollector.EventListener eventListener) {
+    public void register(Object object) {
     }
 
-    public void post(RequestInfo requestInfo) {
+    public void post(Object event) {
     }
 }
