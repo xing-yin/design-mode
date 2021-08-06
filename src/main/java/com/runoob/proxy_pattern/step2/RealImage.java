@@ -1,6 +1,6 @@
 package com.runoob.proxy_pattern.step2;
 
-import com.runoob.proxyPattern.step1.Image;
+import com.runoob.proxy_pattern.step1.Image;
 
 /**
  * Created by yinxing on 2018/8/28.

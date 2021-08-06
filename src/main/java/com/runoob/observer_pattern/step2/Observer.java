@@ -1,6 +1,6 @@
 package com.runoob.observer_pattern.step2;
 
-import com.runoob.observerPattern.step1.Subject;
+import com.runoob.observer_pattern.step1.Subject;
 
 /**
  * Created by yinxing on 2018/8/8.

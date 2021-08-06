@@ -4,10 +4,10 @@ package com.runoob.adapter_pattern.step3;
  * Created by yinxing on 2018/8/23.
  */
 
-import com.runoob.adapterPattern.step1.AdvancedMediaPlayer;
-import com.runoob.adapterPattern.step1.MediaPlayer;
-import com.runoob.adapterPattern.step2.Mp4Player;
-import com.runoob.adapterPattern.step2.VlcPlayer;
+import com.runoob.adapter_pattern.step1.AdvancedMediaPlayer;
+import com.runoob.adapter_pattern.step1.MediaPlayer;
+import com.runoob.adapter_pattern.step2.Mp4Player;
+import com.runoob.adapter_pattern.step2.VlcPlayer;
 
 /**
  * 步骤 3

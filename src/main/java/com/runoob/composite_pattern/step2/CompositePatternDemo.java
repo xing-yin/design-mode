@@ -4,7 +4,7 @@ package com.runoob.composite_pattern.step2;
  * Created by yinxing on 2018/8/28.
  */
 
-import com.runoob.compositePattern.step1.Employee;
+import com.runoob.composite_pattern.step1.Employee;
 
 /**
  * 步骤 2

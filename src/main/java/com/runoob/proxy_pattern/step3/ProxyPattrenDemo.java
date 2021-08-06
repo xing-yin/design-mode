@@ -4,8 +4,8 @@ package com.runoob.proxy_pattern.step3;
  * Created by yinxing on 2018/8/28.
  */
 
-import com.runoob.proxyPattern.step1.Image;
-import com.runoob.proxyPattern.step2.ProxyImage;
+import com.runoob.proxy_pattern.step1.Image;
+import com.runoob.proxy_pattern.step2.ProxyImage;
 
 /**
  * 步骤 3

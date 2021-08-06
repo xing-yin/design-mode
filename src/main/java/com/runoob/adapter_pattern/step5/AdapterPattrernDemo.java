@@ -4,7 +4,7 @@ package com.runoob.adapter_pattern.step5;
  * Created by yinxing on 2018/8/23.
  */
 
-import com.runoob.adapterPattern.step4.AudioPlayer;
+import com.runoob.adapter_pattern.step4.AudioPlayer;
 
 /**
  * 步骤 5

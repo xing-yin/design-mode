@@ -1,7 +1,7 @@
 package com.runoob.adapter_pattern.step4;
 
-import com.runoob.adapterPattern.step1.MediaPlayer;
-import com.runoob.adapterPattern.step3.MediaAdapter;
+import com.runoob.adapter_pattern.step1.MediaPlayer;
+import com.runoob.adapter_pattern.step3.MediaAdapter;
 
 /**
  * Created by yinxing on 2018/8/23.

@@ -1,9 +1,9 @@
 package com.runoob.observer_pattern.step4;
 
-import com.runoob.observerPattern.step1.Subject;
-import com.runoob.observerPattern.step3.BinaryObserver;
-import com.runoob.observerPattern.step3.HexaObserver;
-import com.runoob.observerPattern.step3.OctalObserver;
+import com.runoob.observer_pattern.step1.Subject;
+import com.runoob.observer_pattern.step3.BinaryObserver;
+import com.runoob.observer_pattern.step3.HexaObserver;
+import com.runoob.observer_pattern.step3.OctalObserver;
 
 /**
  * Created by yinxing on 2018/8/10.

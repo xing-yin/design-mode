@@ -4,7 +4,7 @@ package com.runoob.command_pattern.step4;
  * Created by yinxing on 2018/8/21.
  */
 
-import com.runoob.commandPattern.step1.Order;
+import com.runoob.command_pattern.step1.Order;
 
 import java.util.ArrayList;
 import java.util.List;

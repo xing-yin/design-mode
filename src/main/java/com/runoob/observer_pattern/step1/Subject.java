@@ -4,7 +4,7 @@ package com.runoob.observer_pattern.step1;
  * Created by yinxing on 2018/8/8.
  */
 
-import com.runoob.observerPattern.step2.Observer;
+import com.runoob.observer_pattern.step2.Observer;
 
 import java.util.ArrayList;
 import java.util.List;

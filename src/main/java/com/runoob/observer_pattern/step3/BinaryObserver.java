@@ -4,8 +4,8 @@ package com.runoob.observer_pattern.step3;
  * Created by yinxing on 2018/8/10.
  */
 
-import com.runoob.observerPattern.step1.Subject;
-import com.runoob.observerPattern.step2.Observer;
+import com.runoob.observer_pattern.step1.Subject;
+import com.runoob.observer_pattern.step2.Observer;
 
 /**
  * 步骤 3

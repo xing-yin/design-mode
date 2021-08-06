@@ -1,6 +1,6 @@
 package com.runoob.adapter_pattern.step2;
 
-import com.runoob.adapterPattern.step1.AdvancedMediaPlayer;
+import com.runoob.adapter_pattern.step1.AdvancedMediaPlayer;
 
 /**
  * Created by yinxing on 2018/8/23.

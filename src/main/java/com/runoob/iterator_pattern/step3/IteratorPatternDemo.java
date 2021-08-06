@@ -4,8 +4,8 @@ package com.runoob.iterator_pattern.step3;
  * Created by yinxing on 2018/8/28.
  */
 
-import com.runoob.iteratorPattern.step1.Iterator;
-import com.runoob.iteratorPattern.step2.NameRepository;
+import com.runoob.iterator_pattern.step1.Iterator;
+import com.runoob.iterator_pattern.step2.NameRepository;
 
 /**
  * 步骤 3
