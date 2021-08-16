@@ -1,5 +1,4 @@
 *.iml
 .idea
 output
-*.xml
 target
