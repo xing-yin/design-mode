@@ -1,12 +1,14 @@
 package com.beauty_design_mode.lecture25_26.v2.model;
 
+import lombok.Data;
+
 /**
  * 请求信息
  *
  * @author Alan Yin
  * @date 2020/10/14
  */
-
+@Data
 public class RequestInfo {
 
     private String apiName;
@@ -21,27 +23,4 @@ public class RequestInfo {
         this.timestamp = timestamp;
     }
 
-    public String getApiName() {
-        return apiName;
-    }
-
-    public void setApiName(String apiName) {
-        this.apiName = apiName;
-    }
-
-    public double getResponseTime() {
-        return responseTime;
-    }
-
-    public void setResponseTime(double responseTime) {
-        this.responseTime = responseTime;
-    }
-
-    public double getTimestamp() {
-        return timestamp;
-    }
-
-    public void setTimestamp(double timestamp) {
-        this.timestamp = timestamp;
-    }
 }
