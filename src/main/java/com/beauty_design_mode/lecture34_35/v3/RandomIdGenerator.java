@@ -1,5 +1,7 @@
 package com.beauty_design_mode.lecture34_35.v3;
 
+import com.google.common.annotations.VisibleForTesting;
+
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 import java.util.Random;
@@ -39,17 +41,19 @@ public class RandomIdGenerator implements IdGenerator {
     }
 
     // 足够简单，可以不用测试
+    // 该 annotation 没有任何实际的作用，只起到标识的作用，告诉其他人说，这两个函数本该是 private 访问权限的，之所以提升访问权限到 protected，只是为了测试，只能用于单元测试中
+    @VisibleForTesting
     private String getLastSubstrSplittedByDot(String hostName) {
         String[] tokens = hostName.split("\\.");
         String substrOfHostName = tokens[tokens.length - 1];
         return substrOfHostName;
     }
 
-
     /**
      * 改动2: 将 generateRandomAlphameric() 和 getLastSubstrSplittedByDot() 这两个函数的访问权限设置为 protected。
      * 这样做的目的是，可以直接在单元测试中通过对象来调用两个函数进行测试。
      */
+    @VisibleForTesting
     protected String generateRandomAlphameric(int length) {
         char[] randomChars = new char[length];
         int count = 0;

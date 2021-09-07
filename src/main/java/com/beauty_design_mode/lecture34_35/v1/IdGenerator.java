@@ -6,6 +6,8 @@ import java.net.UnknownHostException;
 import java.util.Random;
 
 /**
+ * 一份“能用”的代码
+ *
  * @author Alan Yin
  * @date 2020/10/15
  */
@@ -48,11 +50,15 @@ public class IdGenerator {
 
     /**
      * 1.hostname 发生异常没有兜底方案
-     * 2.不建议使用Random，不够随机
+     * 2.不建议使用 Random，不够随机
      * 3.while 循环这部分生成性能低
-     *
+     * <p>
      * 建议分成不同的方法实现，最后一个方法做整合（一些异常可能需要处理）
      */
+
+    public static void main(String[] args) {
+        System.out.println(IdGenerator.generator());
+    }
 
 }
 

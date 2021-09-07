@@ -1,6 +1,5 @@
 package com.beauty_design_mode.lecture34_35.v4;
 
-import com.beauty_design_mode.lecture34_35.v4.RandomIdGenerator;
 import org.junit.Assert;
 import org.junit.Test;
 

@@ -54,7 +54,18 @@ public class RandomIdGenerator implements IdGenerator {
         return substrOfHostName;
     }
 
+    /**
+     * 我们要解决最明显、最急需改进的代码可读性问题。具体有下面几点：
+     *
+     * - hostName 变量不应该被重复使用，尤其当这两次使用时的含义还不同的时候；
+     * - 将获取 hostName 的代码抽离出来，定义为 getLastfieldOfHostName() 函数；
+     * - 删除代码中的魔法数，比如，57、90、97、122；
+     * - 将随机数生成的代码抽离出来，定义为 generateRandomAlphameric() 函数；
+     * - generate() 函数中的三个 if 逻辑重复了，且实现过于复杂，我们要对其进行简化；
+     * - 对 IdGenerator 类重命名，并且抽象出对应的接口。
+     */
+
 }
 
 //    // 代码使用举例
-//    IdGenerator idGenerator = new RandomIdGenerator();
+// LogTraceIdGenerator logTraceIdGenerator = new RandomIdGenerator();
